@@ -1,0 +1,22 @@
+# Compiled Binaries
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Environment Variables (Never commit secrets)
+.env
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
